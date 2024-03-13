@@ -1,0 +1,3 @@
+[submodule "ccwc"]
+	path = ccwc
+	url = git@github.com:shaniVL/ccwc.git
